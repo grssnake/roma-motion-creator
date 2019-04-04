@@ -1,0 +1,2 @@
+python motion_creator.py
+pause

@@ -1,0 +1,7 @@
+robot_communicator:
+  default: wired
+  wired: COM4
+  wireless: 98:D3:31:FB:2F:E4
+robot_name: ROMA
+user_data:
+  folder_path: /home/laptop/ROMA

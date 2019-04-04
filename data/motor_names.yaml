@@ -1,0 +1,167 @@
+-
+    names: 
+        work_name: foot_right
+        english: Right foot
+        russian: Правая ступня
+    id: 0
+
+-
+    names: 
+        work_name: shin_right
+        english: Right shin
+        russian: Правая голень
+    id: 1
+
+-
+    names: 
+        work_name: knee_right
+        english: Right knee
+        russian: Правое Колено
+    id: 2
+
+-
+    names: 
+        work_name: hip_right_x
+        english: Right hip X   
+        russian: Правое бедро X
+    id: 3
+
+-
+    names: 
+        work_name: hip_right_y
+        english: Right hip Y
+        russian: Правое бедро Y
+    id: 4
+
+-
+    names: 
+        work_name: foot_left
+        english: Left foot
+        russian: Левая ступня
+    id: 5
+
+-
+    names: 
+        work_name: shin_left
+        english: Left shin
+        russian: Левая голень
+    id: 6
+
+-
+    names: 
+        work_name: knee_left
+        english: Left knee
+        russian: Левое колено
+    id: 7
+
+-
+    names: 
+        work_name: hip_left_x
+        english: Left hip X
+        russian: Левое бедро X 
+    id: 8
+
+-
+    names: 
+        work_name: hip_left_y
+        english: Left hip Y
+        russian: Левое бедро Y
+    id: 9
+
+-
+    names: 
+        work_name: shoulder_right_x
+        english: Right Shoulder X
+        russian: Правое плечо X
+    id: 10
+
+-
+    names: 
+        work_name: shoulder_right_y
+        english: Right shoulder Y
+        russian: Правое плечо Y
+    id: 11
+
+-
+    names: 
+        work_name: albow_right
+        english: Right albow
+        russian: Правый локоть
+    id: 12
+
+-
+    names: 
+        work_name: grab_right
+        english: Right grab
+        russian: Правый зажим
+    id: 13
+
+-
+    names: 
+        work_name: shoulder_left_x
+        english: Left shouder X
+        russian: Левое плечо X
+    id: 14
+
+-
+    names: 
+        work_name: shoulder_left_y
+        english: Left shouder Y
+        russian: Левое плечо Y
+    id: 15
+
+
+-
+    names: 
+        work_name: albow_left
+        english: Left albow
+        russian: Левый локоть
+    id: 16
+
+  
+-
+    names: 
+        work_name: grab_left
+        english: Left grab
+        russian: Левый зажим
+    id: 17
+
+
+-
+    names: 
+        work_name: head
+        english: Head
+        russian: Голова
+    id: 18
+
+
+
+
+
+
+   
+
+    
+
+  
+
+   
+
+
+   
+
+   
+
+    
+
+
+    
+
+    
+
+      
+
+    
+
+   
+
