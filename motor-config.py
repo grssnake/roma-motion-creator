@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import sys, os
+import math
 from yaml import load, dump
 try:
     from yaml import CLoader as Loader, CDumper as Dumper
@@ -27,7 +28,7 @@ for motor in zip(motor_config["motors"], motor_names):
 
     #print(motor)
     print("Сервопривод #{}: {}".format(motor[1]['id'], motor[1]['names']["russian"].encode("windows-1251").decode()))
-    print("Углы: min {}° max {}°\n".format(motor[0]['min'], motor[0]['max']))
+    print("Угол: {}°\n".format(math.fabs(motor[0]['min']) + math.fabs(motor[0]['max'])))
 
 exit()
 
