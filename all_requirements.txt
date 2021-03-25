@@ -28,7 +28,7 @@ python-dotenv==0.10.1
 python-ev3dev2==2.0.0b3
 pywin32==224
 pywin32-ctypes==0.2.0
-PyYAML==5.1
+PyYAML==5.4
 requests==2.20.1
 scipy==1.1.0
 shiboken2==5.12.2
