@@ -26,7 +26,7 @@ PySide2==5.12.2
 PySocks==1.6.8
 python-dotenv==0.10.1
 python-ev3dev2==2.0.0b3
-pywin32==224
+pywin32==301
 pywin32-ctypes==0.2.0
 PyYAML==5.1
 requests==2.20.1
